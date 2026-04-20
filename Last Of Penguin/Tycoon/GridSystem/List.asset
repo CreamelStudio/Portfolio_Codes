@@ -1,0 +1,432 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d168596dda88f4534bc2af1f5bcd0795, type: 3}
+  m_Name: List
+  m_EditorClassIdentifier: 
+  defaultMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  structList:
+  - name: "\uB0C9\uC7A5\uACE0"
+    mesh: {fileID: 1014983487661138057, guid: 215267668930d8d4bbc84c047b5e15e5, type: 3}
+    image: {fileID: 0}
+    structPrefab: {fileID: 919132149155446097, guid: 215267668930d8d4bbc84c047b5e15e5,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 4
+    disableButton: 1
+  - name: "\uC544\uC774\uC2A4\uD06C\uB9BC \uAC00\uAC8C"
+    mesh: {fileID: -4037604744702251852, guid: 2ad138afb50d64634b81e2f18fa51706, type: 3}
+    image: {fileID: 0}
+    structPrefab: {fileID: 919132149155446097, guid: 2ad138afb50d64634b81e2f18fa51706,
+      type: 3}
+    modelSize: {x: 3, y: 4, z: 3}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 4
+    disableButton: 1
+  - name: "2x1 \uD14C\uC2A4\uD2B8\uBE14\uB7ED"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 0}
+    structPrefab: {fileID: 1771161865582090674, guid: 6d942fc99ed0449a6be14124d2f085dc,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 1}
+    viewerSize: {x: 2, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 4
+    disableButton: 1
+  - name: "\uD14C\uC2A4\uD2B8 \uC5BC\uC74C\uBE14\uB7ED"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 0}
+    structPrefab: {fileID: 6373306308835235496, guid: db7ccbda178a28246b513bdffbda2a9e,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 4
+    disableButton: 1
+  - name: "\uC120\uBC18"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 356a9828639b8064d8c88bb29bf2d1a5, type: 3}
+    structPrefab: {fileID: 5671836628736749794, guid: f5af5d2623a602841b05244f86d3482e,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 270, y: 0, z: 90}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 4
+    disableButton: 0
+  - name: "\uB538\uAE30 \uC218\uAE09\uC2DC\uC124"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 71b61dcdc730f9c4cb0367b4877e69bc, type: 3}
+    structPrefab: {fileID: 5865858863579358912, guid: 388c247a014eb554dad695f17b364be9,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uCD08\uCF54 \uC218\uAE09\uC2DC\uC124"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 1271ea9ab5a52554d9cad257bc4a3e2b, type: 3}
+    structPrefab: {fileID: 5995728038241648357, guid: aacec3c43274dc247923782481dcc2b7,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uBC14\uB2D0\uB77C \uC218\uAE09\uC2DC\uC124"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: a477de72acfc67648aa53b91f1bcc0fc, type: 3}
+    structPrefab: {fileID: 554011451480416766, guid: eac8cae6c4f41c04b82ba50c2ff46371,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uC81C\uCD9C\uC2DC\uC124"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: f7918355981e51b408da1f24b0bfe674, type: 3}
+    structPrefab: {fileID: 847315715286400918, guid: bfa83695223b1cc43b74d6aaf9af6a4c,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 2}
+    viewerSize: {x: 1, y: 1, z: 2}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0.5, z: 0}
+    wb: 4
+    disableButton: 0
+  - name: "\uB808\uC77C"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 2aa5d1eaa85155346a04629722fac1ff, type: 3}
+    structPrefab: {fileID: 658825061536848033, guid: 81e33df45cefb5a4d81e7205ee905603,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uC5BC\uC74C\uBE59\uC1C4\uAE30"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 565da7d789c55de4b9355b59c32135c6, type: 3}
+    structPrefab: {fileID: 3689402468709307716, guid: 4dba2b9dd63f9f849914d6fec150c193,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 3
+    disableButton: 0
+  - name: "\uC5BC\uC74C\uB0C9\uC7A5\uACE0"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 3fb8f11854a31f04f9fec85505f653a3, type: 3}
+    structPrefab: {fileID: 2970467392368543447, guid: ff1cad9b828ff5b49bc0a9e1c7621ac4,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uC811\uC2DC\uC218\uAE09\uC2DC\uC124"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 50d1e5ab116a95b4292b8f4f72446f14, type: 3}
+    structPrefab: {fileID: 2089947655526274293, guid: d59955685627bb949a8b4efd7554f1f3,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 1}
+    viewerSize: {x: 2, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uD070\uC608\uD2F0(\uC4F0\uB808\uAE30\uD1B5)"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 00bb013c9f7abc049ae16c910cdd6380, type: 3}
+    structPrefab: {fileID: 4519728477269047755, guid: db077bd9ad5839f409683433780ea6d8,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 4
+    disableButton: 0
+  - name: "\uD718\uD551\uC120\uBC18"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 5172d0dd710f8f740b883d3e7efc6dc2, type: 3}
+    structPrefab: {fileID: 3686578886441984240, guid: 84b56ec9a5c766d48ab033946a685d5e,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 270, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 3
+    disableButton: 0
+  - name: "\uC5BC\uC74C\uBA39\uB294\uC608\uD2F0"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 92c9b101421d98847b8908cd65032cd8, type: 3}
+    structPrefab: {fileID: 5119841842305760465, guid: 0333d4fe384612a4aa617361b526a168,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 2}
+    viewerSize: {x: 2, y: 1, z: 2}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 4
+    disableButton: 0
+  - name: "\uC5BC\uC74C\uBA39\uB294\uC608\uD2F0"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 92c9b101421d98847b8908cd65032cd8, type: 3}
+    structPrefab: {fileID: 5119841842305760465, guid: 0333d4fe384612a4aa617361b526a168,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 2}
+    viewerSize: {x: 2, y: 1, z: 2}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 4
+    disableButton: 1
+  - name: "\uC911\uAC04\uBCBD"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: b33b5a79b79db2945bf7791a214dd49a, type: 3}
+    structPrefab: {fileID: 875471019923498754, guid: aa0cb14c2479b5a42bfc99993bc2c36d,
+      type: 3}
+    modelSize: {x: 3, y: 1, z: 1}
+    viewerSize: {x: 3, y: 1, z: 1}
+    moveOffset: {x: 3, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 1
+    disableButton: 0
+  - name: "\uB3D9\uAE00\uBCB5\uC774\uBCBD"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 79ba8ee79662cdc48a19d54516932d7a, type: 3}
+    structPrefab: {fileID: 84254058781805311, guid: c12a4e4bc72f3d64fb3f5a364ebd59e0,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 1}
+    viewerSize: {x: 2, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 1
+    disableButton: 0
+  - name: "\uB3D9\uAE00\uBCB5\uC774\uBCBD\uBC18\uB300"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 19476498ecf516c4d9a816c1cd9fd896, type: 3}
+    structPrefab: {fileID: 84254058781805311, guid: 9424dbf7b1e3ff54c862d8e46349bdfc,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 1}
+    viewerSize: {x: 2, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 1
+    disableButton: 0
+  - name: "\uCEE4\uBE0C\uBCBD"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 4bc4183ce67c0494fb1198579ef4cc1b, type: 3}
+    structPrefab: {fileID: 1744928277764865020, guid: 878d0ffff3fbf20408dc84794950efd3,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 2}
+    viewerSize: {x: 2, y: 1, z: 2}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 1
+    disableButton: 0
+  - name: "\uCEE4\uBE0C\uBCBD \uBC18\uB300"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 0253df91f99896543904ff8f4d231bca, type: 3}
+    structPrefab: {fileID: 1744928277764865020, guid: 04e70bd2aee16c84b90154d1664e6b36,
+      type: 3}
+    modelSize: {x: 2, y: 1, z: 2}
+    viewerSize: {x: 2, y: 1, z: 2}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 1
+    disableButton: 0
+  - name: "\uD55C\uCE78\uBCBD"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: f0b3e132513ca6b4fb16d2b6e9161edc, type: 3}
+    structPrefab: {fileID: 111892844471322609, guid: acd1e53c235ad8e4d845bb8336b2a04b,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 2}
+    viewerSize: {x: 1, y: 1, z: 2}
+    moveOffset: {x: 1, y: 1, z: 2}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 1
+    disableButton: 0
+  - name: "\uC120\uBC18\uBCBD"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 4b46f209fcc4ec9408dd117af187ec1e, type: 3}
+    structPrefab: {fileID: 8607741539689140421, guid: 8ff5ca35f74eb74459d7633fbe6063f7,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 2}
+    viewerSize: {x: 1, y: 1, z: 2}
+    moveOffset: {x: 1, y: 1, z: 2}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 1
+    disableButton: 0
+  - name: "\uC5D0\uD2F0 \uC0DD\uC131 \uC704\uCE58"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 00bb013c9f7abc049ae16c910cdd6380, type: 3}
+    structPrefab: {fileID: 2394259501757696023, guid: d1807aa991bd12b4899ea3cae6d7ca8d,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 1
+    disableButton: 0
+  - name: IceBox
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 98e26f6997825e54080375822e572541, type: 3}
+    structPrefab: {fileID: 1942025210568267826, guid: 1bfa957710e18a146946d5dc8e149c57,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 5
+    disableButton: 0
+  - name: WaterBox
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 7e118c5728c86ac4282d488d0415b79e, type: 3}
+    structPrefab: {fileID: 1942025210568267826, guid: 1d15e7d4f632156468cde898c969298d,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: -0.5, z: 0}
+    wb: 5
+    disableButton: 0
+  - name: "\uC911\uAC04\uB808\uC77C"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 6b9a4a432f92358498e12680bb3575b6, type: 3}
+    structPrefab: {fileID: 2017831841682564278, guid: 80310a282687b66438798e43138ed316,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: -90, y: 0, z: -180}
+    modelPositionOffset: {x: 0, y: -0.21, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uB05D\uB808\uC77C"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 3cdb4850b12944c4cb578e23ef88212d, type: 3}
+    structPrefab: {fileID: 7941295957552450838, guid: 52ef106d5d5436e449e6808315b5cf28,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: -90, y: 0, z: -180}
+    modelPositionOffset: {x: 0, y: -0.21, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uD3AD\uADC4\uC2A4\uD3F0\uC704\uCE58"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 8e2ec0f9ebf45324099c5a064c9b7376, type: 3}
+    structPrefab: {fileID: 1830279254849428893, guid: 97b971ce823826f41a924fba450b2ab8,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: -90, y: 0, z: -180}
+    modelPositionOffset: {x: 0, y: -0.21, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uD3EC\uD1A4 \uC5BC\uC74C\uB0C9\uC7A5\uACE0"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 1bca18da17c00f34bbc495ef85713235, type: 3}
+    structPrefab: {fileID: 2970467392368543447, guid: 26c038067cda59a439205fe0fb049097,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 0
+    modelRotateOffset: {x: 0, y: 0, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 2
+    disableButton: 0
+  - name: "\uD3EC\uD1A4 \uC608\uD2F0\uC2A4\uD3F0\uC704\uCE58"
+    mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    image: {fileID: 2800000, guid: 92c9b101421d98847b8908cd65032cd8, type: 3}
+    structPrefab: {fileID: 2394259501757696023, guid: 9fb052fb84a2b5b49a0b8541a22c968a,
+      type: 3}
+    modelSize: {x: 1, y: 1, z: 1}
+    viewerSize: {x: 1, y: 1, z: 1}
+    moveOffset: {x: 1, y: 1, z: 1}
+    isYOffset: 1
+    modelRotateOffset: {x: 0, y: 180, z: 0}
+    modelPositionOffset: {x: 0, y: 0, z: 0}
+    wb: 2
+    disableButton: 0
